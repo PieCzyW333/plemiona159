@@ -13,7 +13,7 @@ if(!$("#planer_klinow").length){
 		nazwyWojsk:["Pikinier","Miecznik","Topornik","Łucznik","Zwiadowca","LK","ŁNK","CK","Taran","Katapulta","Rycerz","Szlachcic"]
 	};
 
-	var pobieram = true;
+	var pobieram = false;
 	var pobraneGrupy = false;
 	var sort_malejaco = true;
 	var img_wojsk = image_base + "unit/";
